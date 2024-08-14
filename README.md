@@ -9,3 +9,10 @@
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Ortega1&theme=gotham&layout=donut" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,react,c,python" />
+    <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="55px" alt="Power BI icon"/>
+  </a>
+</p>
