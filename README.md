@@ -1,16 +1,11 @@
-## Hi there 👋
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Ortega1&theme=gotham&area=true&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Ortega1&theme=gotham&area=true&hide_border=true))
 
-<!--
-**Lucas-Ortega1/Lucas-Ortega1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Ortega1&theme=gotham" />
+    </a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Ortega1&theme=gotham&layout=donut" />
+  </a>
+</p>
